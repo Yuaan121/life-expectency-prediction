@@ -1,6 +1,5 @@
 # Life Expectancy Prediction Project
 
-
 ## Overview
 
 This project focuses on predicting life expectancy using machine learning techniques. The dataset used for this analysis includes various features such as GDP, schooling, HIV/AIDS rate, etc. The goal is to explore the data, train a Linear Regression model, apply the powerful XGBoost algorithm, and compare their performance.
@@ -18,8 +17,8 @@ This project focuses on predicting life expectancy using machine learning techni
 - [Learning Takeaways](#learning-takeaways)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
+  
 ## Project Highlights
 
 - Explored and visualized the dataset through EDA techniques.
