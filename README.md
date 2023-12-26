@@ -1,6 +1,5 @@
 # Life Expectancy Prediction Project
 
-![Project Image](link_to_project_image)
 
 ## Overview
 
@@ -78,7 +77,3 @@ This project focuses on predicting life expectancy using machine learning techni
 ## Contributing
 
 Feel free to contribute by opening issues or creating pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
